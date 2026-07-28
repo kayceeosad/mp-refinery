@@ -1,0 +1,25 @@
+Homepage SEO Overhaul Plan
+
+Recommended title:
+Oil & Gas Production, Refining & International Trade | Company Name
+
+Recommended meta description:
+Leading oil and gas company specialising in oil & gas production, exploration, refining, wholesale trading and international petroleum trade.
+
+Primary keywords:
+- Oil & Gas Production
+- Oil Exploration
+- Refining
+- Refining & Wholesales
+- Wholesale Trading
+- International Trade
+
+Checklist:
+- Rewrite hero copy
+- Add unique H1
+- Add service sections
+- Add FAQ schema
+- Add Organization schema
+- Add OG tags
+- Add Twitter cards
+- Improve internal links
